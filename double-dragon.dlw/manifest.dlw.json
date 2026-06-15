@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "DOUBLE DRAGON",
+  "universe": "DDN · Double Dragon",
+  "emergence": "",
+  "moniker": "⟦DOUBLE DRAGON:DDN:3b0388⟧",
+  "carbon": "double-dragon.carbon.tiff (TIFF)",
+  "silicon": "double-dragon.silicon.png (PNG)",
+  "seal_sha256": "c509df56813a13d5dc4c09ac0eeae90afa3c73517c301f317d838d16afd5f406",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

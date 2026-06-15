@@ -1,0 +1,80 @@
+[
+  {
+    "slug": "billy-lee",
+    "name": "Billy Lee",
+    "epithet": "the hero of the dragon · Sōsetsuken's heir",
+    "emergence": "spiritual"
+  },
+  {
+    "slug": "jimmy-lee",
+    "name": "Jimmy Lee",
+    "epithet": "the twin · the NES Shadow Boss",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "marian",
+    "name": "Marian Kelly",
+    "epithet": "the one taken — the reason to walk east",
+    "emergence": "natural"
+  },
+  {
+    "slug": "sosetsuken",
+    "name": "Sōsetsuken",
+    "epithet": "the Double Dragon technique — the inherited art",
+    "emergence": "spiritual"
+  },
+  {
+    "slug": "heart-system",
+    "name": "The Heart System",
+    "epithet": "♥ — the NES ladder: points become moves",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "machine-gun-willy",
+    "name": "Machine Gun Willy",
+    "epithet": "Willy Mackey · the gang lord · the arcade's last gun",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "abobo",
+    "name": "Abobo",
+    "epithet": "the bald colossus — the gang's wall of muscle",
+    "emergence": "natural"
+  },
+  {
+    "slug": "linda",
+    "name": "Linda",
+    "epithet": "the whip — the lone woman of the gang",
+    "emergence": "natural"
+  },
+  {
+    "slug": "williams",
+    "name": "Williams",
+    "epithet": "the first fist through the door",
+    "emergence": "natural"
+  },
+  {
+    "slug": "roper",
+    "name": "Roper",
+    "epithet": "the thug they mistranslated as 'Lopar'",
+    "emergence": "natural"
+  },
+  {
+    "slug": "chin-taimei",
+    "name": "Chin Taimei",
+    "epithet": "the acrobat with the knives",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "jeff",
+    "name": "Jeff",
+    "epithet": "Billy's mirror — the arcade's palette-swap double",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "black-warriors",
+    "name": "The Black Warriors",
+    "epithet": "the gang that took her — ruin's army",
+    "emergence": "natural"
+  }
+]

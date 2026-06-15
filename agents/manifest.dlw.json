@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Black Warriors",
+  "universe": "DDN · Double Dragon",
+  "emergence": "natural",
+  "moniker": "⟦The Black Warriors:DDN:e52793⟧",
+  "carbon": "black-warriors.carbon.tiff (TIFF)",
+  "silicon": "black-warriors.silicon.png (PNG)",
+  "seal_sha256": "0128a14872e5e88341a3805d337abcb1f1d0e6dd3de4d26147383eb1d7eceb17",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
